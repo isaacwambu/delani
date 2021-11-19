@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top-pic{
+    height: 100%;
+    background-image: url(../img/backgrounds/first.jpg);
+}
