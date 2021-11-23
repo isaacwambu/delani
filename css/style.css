@@ -9,3 +9,57 @@
 .services{
     background-image: url(../img/backgrounds/second.jpg);
 }
+h2{
+    font-weight: bold;
+}
+.about{
+    height: 280px;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1.7;
+    padding-top: 50px;
+    
+}
+.container{
+    width: 60%;
+    margin: auto;
+    
+}
+.services{
+    color: white;
+    text-align: center;
+    height: 250px;
+    font-size: 1.5rem;
+    padding-top: 4%;
+    line-height: 2;
+    
+}
+.container1{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    height: 400px;
+    padding: %;
+}
+.container1-h2{
+    text-align: center;
+}
+.service1{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-right: 3%;
+    margin-left: ;
+}
+.service2{
+    margin-right: 3%;
+
+}
+.hidden{
+    display: none;
+}
+#hidden{
+    display: none;
+}
