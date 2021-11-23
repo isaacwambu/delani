@@ -90,8 +90,6 @@ h2{
     justify-content: center;
     align-items: center;
     position: relative;
-    height: 100%;
-    width: 100%;
     top:-100%;
     left:0%;
     opacity: 0;
@@ -100,6 +98,15 @@ h2{
 }
 .overlay-content h1{
     text-align: center;
-    margin-top: 50%;
     position:relative;
+}
+.col-md-4{
+    width: 550px;
+    position: relative;
+}
+#contact-us{
+    background-image: url(../img/backgrounds/third.jpg);
+}
+.container1-h2{
+    padding-top: 3%;
 }
