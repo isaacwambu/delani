@@ -20,11 +20,7 @@ h2{
     padding-top: 50px;
     
 }
-.container{
-    width: 60%;
-    margin: auto;
-    
-}
+
 .services{
     color: white;
     text-align: center;
@@ -54,12 +50,56 @@ h2{
     margin-left: ;
 }
 .service2{
-    margin-right: 3%;
+    margin-right: ;
 
 }
 .hidden{
     display: none;
+    transition: 2s;
 }
 #hidden{
     display: none;
+    transition: 2s;
+}
+.hidden2{
+    display: none;
+    transition: 2s;
+}
+#hidden2{
+    display: none;
+    transition: 2s;
+}
+.hidden3{
+    display: none;
+    transition: 2s;
+}
+#hidden3{
+    display: none;
+    transition: 2s;
+}
+.col-md-3{
+}
+.col-md-3:hover .overlay-content{
+    opacity: 0.8;
+    transition-delay: 0.1s;
+   
+}
+.overlay-content{
+    overflow: hidden;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    top:-100%;
+    left:0%;
+    opacity: 0;
+    transition: ;
+    z-index: 1;
+}
+.overlay-content h1{
+    text-align: center;
+    margin-top: 50%;
+    position:relative;
 }
