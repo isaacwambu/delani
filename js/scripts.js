@@ -38,5 +38,5 @@ function fn(){
     var email = document.getElementById("email").value;
     var message =document.getElementById("message").value;
 
-    alert(names+ " we have received your message. Thank you fro reaching out to us.");
+    alert(names+ " we have received your message. Thank you for reaching out to us.");
 }
