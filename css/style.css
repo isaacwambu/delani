@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
 .top-pic{
     height: 1030px;
     background-image: url(../img/backgrounds/first.jpg);
@@ -38,7 +41,6 @@ h2{
     font-size: 1.5rem;
     line-height: 1.5;
     height: 400px;
-    padding: %;
 }
 .container1-h2{
     text-align: center;
@@ -47,11 +49,6 @@ h2{
     padding-left: 5%;
     padding-right: 5%;
     margin-right: 3%;
-    margin-left: ;
-}
-.service2{
-    margin-right: ;
-
 }
 .hidden{
     display: none;
