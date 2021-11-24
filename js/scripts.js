@@ -29,7 +29,6 @@ $(document).ready(function(){
     $(".service3 p").click(function(){
         $("#hidden3").toggle();
         $("#show3").toggle();
-        
-        
+   
     });
 });
