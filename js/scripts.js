@@ -32,3 +32,11 @@ $(document).ready(function(){
    
     });
 });
+
+function fn(){
+    var names = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var message =document.getElementById("message").value;
+
+    alert("Your name is: "+names +", your email address is: "+email +", and your message is: "+message )
+}
