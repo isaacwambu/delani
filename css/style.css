@@ -122,3 +122,15 @@ h2{
 .port-center{
     text-align: center;
 }
+#name{
+    background-color: transparent;
+    color: white;
+}
+#email{
+    background-color: transparent;
+    color: white;
+}
+#message{
+    background-color: transparent;
+    color: white;
+}
